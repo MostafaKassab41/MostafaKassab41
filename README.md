@@ -13,6 +13,7 @@
 <p align="left"> 
 <img src="https://komarev.com/ghpvc/?username=MostafaKassab&color=brightgreen" alt="watching_count" />
 </p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -106,12 +107,6 @@
   <a href="https://www.linkedin.com/in/mostafa-kassab"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/MostafaKassab41"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
-
----
-
-### Happy Coding! 😊
-![Cloud & DevOps Engineer](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi0Emn_9FMAKor6kC78AOJJi2yqZgn5nYfkcBSULuExy3X1u8BOC__-b0AEFEUmxfl5__FeaeMFw2npmx1w2N939xKClVD7LpUhQDiRyTxZLfNet43JQOjw9HfPTZ4cOQk0sE9-mWEsEW9GFwNKR29L8CNfGW_iyAHGd8MiTCG67vQmg923W7B1EohckE4/s728-rw-e365/devsec.png)
-<br><br>
 
 
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
